@@ -3,7 +3,7 @@ class Dog
     @the_name #= dog_name
   end
   def name=(dog_name) 
-   @the_name this_dogs_name
+   @the_name =dog_name
   end
 end
 fido = Dog.new
