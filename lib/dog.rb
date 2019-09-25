@@ -1,5 +1,6 @@
 class Dog
-  def do
+  def name()
+  end
   
 end
 fido = Dog.new
